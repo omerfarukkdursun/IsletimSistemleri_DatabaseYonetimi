@@ -1,0 +1,1 @@
+# IsletimSistemleri_DatabaseYonetimi
